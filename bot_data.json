@@ -1,0 +1,18 @@
+{
+    "users": {},
+    "total_likes": {},
+    "custom_message": "yu",
+    "auto_like_users": {
+        "6282055190": {
+            "uid": "1593717951",
+            "region": "ind",
+            "day": "24",
+            "chat_id": 6282055190,
+            "last_run": "2025-09-01T02:21:40.608659"
+        }
+    },
+    "allowed_groups": [
+        6282055190,
+        -1002894535125
+    ]
+}
